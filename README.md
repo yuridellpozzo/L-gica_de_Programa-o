@@ -1,2 +1,2 @@
-# L-gica_de_Programa-o
+# Logica_de_Programacao
 Curso Gratuito no YouTube - Joviano Silveira (Canal), Linguagem (Python).
